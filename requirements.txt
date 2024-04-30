@@ -1,0 +1,10 @@
+scikit_learn==1.4.1
+missingno==0.5.2
+xgboost==2.0.3
+scikit_plot==0.3.7
+catboost==1.2.3
+bayesian_optimization==1.4.3
+mlflow==2.11.3
+zenml[server]==0.56.2
+optuna==3.6.0
+sagemaker==2.214.1
